@@ -2,7 +2,7 @@
 
 ## I'm a Developer, .
 
-- 🌱 I’m currently Building a Place that I can call help [SirenRP] 🤣
+- 🌱 I’m currently Building a Place that I can call home [SirenRP] 🤣
 - 👯 I’m looking To Help With issues that may come up
 - 💻 My goal is to contribute more to the [QBCore Framework][QBCore]
 
