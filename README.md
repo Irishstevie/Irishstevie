@@ -1,5 +1,7 @@
 ### Hi there 👋 , I'm Stevie - aka [Irishstevie][website]
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=irishstevie)](https://git.io/streak-stats)
+
 ## I'm a Developer, .
 
 - 🌱 I’m currently Building a Place that I can call home [SirenRP] 🤣
